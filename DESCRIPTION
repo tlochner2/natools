@@ -1,0 +1,13 @@
+Package: natools
+Title: Various Tools to Handle Missing Data
+Version: 0.0.0.9000
+Authors@R: 
+    person("Tobias", "Lochner", , "lochner28@usf.edu", role = c("aut", "cre"))
+Description: This package includes various tools that will allow users to more efficiently handle missing data. This includes function that will extract rows with missing values, drop columns with too many missing values, check and summarize missing values by column, replace NA values, and visualize where missing values are. 
+License: GPL-3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3.9000
+Imports: 
+    ggplot2,
+    reshape2
