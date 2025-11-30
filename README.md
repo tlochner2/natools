@@ -8,4 +8,4 @@ natools makes working with large dataframes that contain lots of missing data ea
 
 natools can be installed with install_github("tlochner2/natools")
 
-You can find a write-up demonstrating natools capabilities at 
+You can find a write-up demonstrating natools capabilities at https://lis437033.wordpress.com/2025/11/30/testing-natools/
